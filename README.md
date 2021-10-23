@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Thiago 👋
 #### Rio de Janeiro 🌅
 #### Graduando em Análise e Desenvolvimento de Sistema 📚🧑‍🎓
-
-#### Apaixonado por tecnologia, buscando sempre aprender mais e mais e mudar a vida das pessoas através da programação 
+#### Apaixonado por tecnologia, buscando sempre aprender mais e mais e mudar a vida das pessoas através da programação ❤️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-leal-de-souza-56046020b/)
 
