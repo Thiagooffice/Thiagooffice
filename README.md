@@ -1,3 +1,5 @@
+![Full-Stack Developer](https://user-images.githubusercontent.com/84478212/165183273-4dbd8ba9-9170-45c4-a2ea-abe2ebcc255f.gif)
+
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">Passionate about technology, always looking to learn more and more and change people's lives through programming 🧡</h3>
 
