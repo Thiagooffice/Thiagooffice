@@ -1,6 +1,7 @@
 ![Full-Stack Developer](https://user-images.githubusercontent.com/84478212/165183273-4dbd8ba9-9170-45c4-a2ea-abe2ebcc255f.gif)
 
-<h1 align="center">Hi 👋, I'm Thiago</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋+I'm+Thiago;And+I'm+full-stack+developer💻;+Thanks+for++visiting😊&duration=10000&background=FFFFFF00&size=40&width=1000&center=true&vCenter=true&height=70&color=24292F&font=Roboto)](https://git.io/typing-svg)
+
 <h3 align="center">Passionate about technology, always looking to learn more and more and change people's lives through programming 🧡</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thiagooffice&label=Profile%20views&color=0e75b6&style=flat" alt="thiagooffice" /> </p>
@@ -37,5 +38,5 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagooffice&show_icons=true&locale=en" alt="thiagooffice" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagooffice&" alt="thiagooffice" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagooffice&theme=chartreuse-dark" alt="thiagooffice" /></p>
 
