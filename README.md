@@ -2,12 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+Welcome!😊;I'm+Thiago😊;And+I'm+full-stack+developer💻&duration=9000&background=FFFFFF00&size=40&width=1000&center=true&vCenter=true&height=70&color=24292F&font=Roboto)](https://git.io/typing-svg)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thiagooffice&label=Profile%20views&color=0e75b6&style=flat" alt="thiagooffice" /> </p>
+
 <h3 align="center">Passionate about technology, always looking to learn more and more and change people's lives through programming 🧡<img width="25" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" /></h3>
 
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=thiagooffice&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
