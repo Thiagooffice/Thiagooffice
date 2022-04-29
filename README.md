@@ -41,7 +41,7 @@ I am a Full Stack Developer <img width="50" src="https://user-images.githubuserc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagooffice&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagooffice&show_icons=true&theme=aura)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagooffice&theme=chartreuse-dark" alt="thiagooffice" /></p>
 
