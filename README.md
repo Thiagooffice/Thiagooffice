@@ -1,8 +1,8 @@
 ![Full-Stack Developer](https://user-images.githubusercontent.com/84478212/165183273-4dbd8ba9-9170-45c4-a2ea-abe2ebcc255f.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+👋+I'm+Thiago;And+I'm+full-stack+developer💻;+Thanks+for++visiting😊&duration=10000&background=FFFFFF00&size=40&width=1000&center=true&vCenter=true&height=70&color=24292F&font=Roboto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+Welcome!😊;I'm+Thiago😊;And+I'm+full-stack+developer💻&duration=9000&background=FFFFFF00&size=40&width=1000&center=true&vCenter=true&height=70&color=24292F&font=Roboto)](https://git.io/typing-svg)
 
-<h3 align="center">Passionate about technology, always looking to learn more and more and change people's lives through programming 🧡</h3>
+<h3 align="center">Passionate about technology, always looking to learn more and more and change people's lives through programming 🧡<img width="25" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" /></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thiagooffice&label=Profile%20views&color=0e75b6&style=flat" alt="thiagooffice" /> </p>
 
@@ -11,19 +11,24 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
-- 🔭 I’m currently working at [WeDev Software](https://wedev.software/)
+I am a Full Stack Developer <img width="50" src="https://user-images.githubusercontent.com/84478212/165867697-0fd218c1-6b7e-465e-92e3-832d94c5429d.gif" />  from Brazil. <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" />
 
-- 🌱 I’m currently learning **software architecture and Node, Next, Typescript technologies, among others.**
+
+- 🔭 I’m currently working at [WeDev Software](https://wedev.software/) <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" />
+
+- 🌱 I’m currently learning **software architecture and Node, Next, Typescript technologies, among others.** <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" />
+
+- 📚 I'm studying **System Analysis and Development at Estácio de Sá College.** 
 
 - 👯 I try to collaborate on **new features and provide maintenance on demand, meeting customer demands and researching new alternatives for solutions.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thiagooffice](https://github.com/Thiagooffice)
 
-- 💬 Ask me about **React, Node, Next, Typescript**
+- 💬 Ask me about **React, Node, Next, Typescript**  <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif?raw=true" />
 
-- 📫 How to reach me **thiagooffice2@gmail.com**
+- 📫 How to reach me **thiagooffice2@gmail.com**  <img width="20" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Gmail.svg" />
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me <img width="70" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true" /></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thiago-leal-de-souza-programador/" target="_blank"><img target="_blank" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiago-leal-de-souza-programador/" height="30" width="40" /></a>
 <a href="https://discord.gg/Thiago Souza#2270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thiago Souza#2270" height="30" width="40" /></a>
@@ -39,4 +44,10 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagooffice&show_icons=true&locale=en" alt="thiagooffice" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagooffice&theme=chartreuse-dark" alt="thiagooffice" /></p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting😊&duration=9000&background=FFFFFF00&size=40&width=1000&center=true&vCenter=true&height=70&color=003140&font=Roboto)](https://git.io/typing-svg)
 
