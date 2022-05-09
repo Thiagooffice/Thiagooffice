@@ -10,12 +10,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
-I am a Full Stack Developer <img width="50" src="https://user-images.githubusercontent.com/84478212/165867697-0fd218c1-6b7e-465e-92e3-832d94c5429d.gif" />  from Brazil. <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" />
+I am a Full Stack Developer <img width="50" src="https://user-images.githubusercontent.com/84478212/165867697-0fd218c1-6b7e-465e-92e3-832d94c5429d.gif" />  from **Brazil.** <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" />
 
 
 - 🔭 I’m currently working at [WeDev Software](https://wedev.software/) <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" />
 
-- 🤝 I'm a member of a team of over 400 members called DevClub <img width="50" src="https://user-images.githubusercontent.com/84478212/167321355-7dea1f56-ebe1-4d45-9e86-6c6327935e62.png" />
+- 🤝 I'm a member of a team of over 400 members called **DevClub**. <img width="50" src="https://user-images.githubusercontent.com/84478212/167321355-7dea1f56-ebe1-4d45-9e86-6c6327935e62.png" />
 
 - 🌱 I’m currently learning **software architecture and Node, Next, Typescript technologies, among others.** <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" />
 
