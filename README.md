@@ -15,11 +15,13 @@ I am a Full Stack Developer <img width="50" src="https://user-images.githubuserc
 
 - 🔭 I’m currently working at [WeDev Software](https://wedev.software/) <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" />
 
+- 🤝 I'm a member of a team of over 400 members called DevClub <img width="50" src="https://user-images.githubusercontent.com/84478212/167321355-7dea1f56-ebe1-4d45-9e86-6c6327935e62.png" />
+
 - 🌱 I’m currently learning **software architecture and Node, Next, Typescript technologies, among others.** <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" />
 
 - 📚 I'm studying **System Analysis and Development at Estácio de Sá College.** <img width="36" src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" />
 
-- 👯 I try to collaborate on **new features and provide maintenance on demand, meeting customer demands and researching new alternatives for solutions.**
+- 👯 I try to collaborate on **new features and provide maintenance on demand, meeting customer demands and researching new alternatives for solutions.** <img width="80" src="https://user-images.githubusercontent.com/84478212/167321639-e4b8c3d1-b9b4-4ffa-8afa-108b3994441a.png" />
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thiagooffice](https://github.com/Thiagooffice)
 
