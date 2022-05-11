@@ -6,7 +6,9 @@
 
 <h3 align="center">Passionate about technology, always looking to learn more and more and change people's lives through programming 🧡<img width="25" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" /></h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thiagooffice&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thiagooffice&theme=dracula" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
@@ -40,11 +42,15 @@ I am a Full Stack Developer <img width="50" src="https://user-images.githubuserc
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=thiagooffice&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagooffice&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagooffice&show_icons=true&theme=aura)
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagooffice&theme=chartreuse-dark" alt="thiagooffice" /></p>
+
+<p align='center'>
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=thiagooffice&layout=compact&theme=aura' />
+</p>
+
+<p align='center'>
+ <img src='https://github-readme-stats.vercel.app/api?username=thiagooffice&show_icons=true&theme=aura' />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
