@@ -25,7 +25,7 @@ I am a Full Stack Developer <img width="50" src="https://user-images.githubuserc
 
 - 👯 I try to collaborate on **new features and provide maintenance on demand, meeting customer demands and researching new alternatives for solutions.** <img width="80" src="https://user-images.githubusercontent.com/84478212/167321639-e4b8c3d1-b9b4-4ffa-8afa-108b3994441a.png" />
 
-- 👨‍💻 All of my projects are available at https://porthiago.netlify.app/
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://porthiago.netlify.app/">here.</a>
 
 - 💬 Ask me about **React, Node, Next, Typescript**  <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif?raw=true" />
 
