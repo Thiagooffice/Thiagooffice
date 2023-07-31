@@ -14,7 +14,7 @@
 
 I am a Full Stack Developer <img width="50" src="https://user-images.githubusercontent.com/84478212/165867697-0fd218c1-6b7e-465e-92e3-832d94c5429d.gif" />  from **Brazil.** <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" />
 
-- 🤝 I'm a member of a team of over 500 members called **DevClub** and another one with over 400,000 students called **Rocketseat**. <img width="50" src="https://user-images.githubusercontent.com/84478212/167321355-7dea1f56-ebe1-4d45-9e86-6c6327935e62.png" />
+- 🧑‍🎓 I am a student and I am a member of **DevClub**, **Rocketseat**, **Full-Cycle** <img width="50" src="https://user-images.githubusercontent.com/84478212/167321355-7dea1f56-ebe1-4d45-9e86-6c6327935e62.png" />
 
 
 - 🌱 I’m currently learning **software architecture and Node, Next, React Native, Typescript technologies, among others.** <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" />
