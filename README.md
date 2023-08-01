@@ -42,7 +42,7 @@ I am a Full Stack Developer <img width="50" src="https://user-images.githubuserc
 
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=thiagooffice&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagooffice&bg_color=0a2299&color=ffffff&line=0a0a0a&point=7db11b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagooffice&theme=chartreuse-dark" alt="thiagooffice" /></p>
 
