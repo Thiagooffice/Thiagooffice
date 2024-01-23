@@ -17,15 +17,13 @@ I am a Full Stack Developer <img width="50" src="https://user-images.githubuserc
 - 🧑‍🎓 I am a student and I am a member of **DevClub**, **Rocketseat**, **Full-Cycle** <img width="50" src="https://user-images.githubusercontent.com/84478212/167321355-7dea1f56-ebe1-4d45-9e86-6c6327935e62.png" />
 
 
-- 🌱 I’m currently learning **software architecture and Node, Next, React Native, Typescript technologies, among others.** <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" />
+- 🌱 I’m currently learning **software architecture and Javascript, C#, React Native, Ruby, Typescript, among others.** <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" />
 
 - 📚 I'm studying **System Analysis and Development at Estácio de Sá College.** <img width="36" src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" />
 
 - 👯 I try to collaborate on **new features and provide maintenance on demand, meeting customer demands and researching new alternatives for solutions.** <img width="80" src="https://user-images.githubusercontent.com/84478212/167321639-e4b8c3d1-b9b4-4ffa-8afa-108b3994441a.png" />
 
 - 👨‍💻 All of my projects are available at <a target="_blank" href="https://portfoliothdev-bay.vercel.app/">here.</a>
-
-- 💬 Ask me about **React, React Native, Node, Next, Typescript**  <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif?raw=true" />
 
 - 📫 How to reach me **thiagooffice2@gmail.com**  <img width="20" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Gmail.svg" />
 
@@ -38,7 +36,7 @@ I am a Full Stack Developer <img width="50" src="https://user-images.githubuserc
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,bootstrap,css,html,docker,kubernetes,figma,firebase,git,github,gitlab,js,ts,vim,threejs,vscode,powershell,webpack,linux,materialui,mongodb,mysql,nestjs,netlify,nginx,nextjs,nodejs,androidstudio,postgres,postman,prisma,react,sass,styledcomponents,supabase,tailwind,jest,vue,vite,vercel,stackoverflow,graphql,redux,go,heroku&theme=dark&perline=19)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,aws,dotnet,ruby,rails,bootstrap,css,html,docker,kubernetes,figma,firebase,git,github,gitlab,js,ts,vim,threejs,vscode,powershell,webpack,linux,materialui,mongodb,mysql,nestjs,netlify,nginx,nextjs,nodejs,androidstudio,postgres,postman,prisma,react,sass,styledcomponents,supabase,tailwind,jest,vue,vite,vercel,stackoverflow,graphql,redux,go,heroku&theme=dark&perline=19)](https://skillicons.dev)
 
 </p>
 
