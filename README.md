@@ -36,7 +36,7 @@ I am a Full Stack Developer <img width="50" src="https://user-images.githubuserc
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=cs,aws,dotnet,ruby,rails,bootstrap,css,html,docker,kubernetes,figma,firebase,git,github,gitlab,js,ts,vim,threejs,vscode,powershell,webpack,linux,materialui,mongodb,mysql,nestjs,netlify,nginx,nextjs,nodejs,androidstudio,postgres,postman,prisma,react,sass,styledcomponents,supabase,tailwind,jest,vue,vite,vercel,stackoverflow,graphql,redux,go,heroku&theme=dark&perline=19)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,aws,dotnet,rabbitmq,terraform,azure,prometheus,grafana,elasticsearch,ruby,rails,bootstrap,css,html,docker,kubernetes,figma,firebase,git,github,gitlab,js,ts,vim,threejs,vscode,powershell,webpack,linux,materialui,mongodb,mysql,nestjs,netlify,nginx,nextjs,nodejs,androidstudio,postgres,postman,prisma,react,sass,styledcomponents,supabase,tailwind,jest,vue,vite,vercel,stackoverflow,graphql,redux,go,heroku&theme=dark&perline=19)](https://skillicons.dev)
 
 </p>
 
