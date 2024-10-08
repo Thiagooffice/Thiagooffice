@@ -14,10 +14,10 @@
 
 I am a Full Stack Developer <img width="50" src="https://user-images.githubusercontent.com/84478212/165867697-0fd218c1-6b7e-465e-92e3-832d94c5429d.gif" />  from **Brazil.** <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" />
 
-- 🧑‍🎓 I am a student and I am a member of **DevClub**, **Rocketseat**, **Full-Cycle** <img width="50" src="https://user-images.githubusercontent.com/84478212/167321355-7dea1f56-ebe1-4d45-9e86-6c6327935e62.png" />
+- 🧑‍🎓 I am a student and I am a member of **DevClub**, **Rocketseat**, **Full-Cycle**, **Next Wave Education** <img width="50" src="https://user-images.githubusercontent.com/84478212/167321355-7dea1f56-ebe1-4d45-9e86-6c6327935e62.png" />
 
 
-- 🌱 I’m currently learning **software architecture and Javascript, C#, React Native, Ruby, Typescript, among others.** <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" />
+- 🌱 I’m currently learning **software architecture and Javascript, C#, DotNet, React Native, Typescript, among others.** <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" />
 
 - 📚 I'm studying **System Analysis and Development at Estácio de Sá College.** <img width="36" src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" />
 
@@ -42,14 +42,8 @@ I am a Full Stack Developer <img width="50" src="https://user-images.githubuserc
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagooffice&bg_color=0a2299&color=ffffff&line=0a0a0a&point=7db11b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagooffice&theme=chartreuse-dark" alt="thiagooffice" /></p>
-
 <p align='center'>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=thiagooffice&layout=compact&theme=aura' />
-</p>
-
-<p align='center'>
- <img src='https://github-readme-stats.vercel.app/api?username=thiagooffice&show_icons=true&theme=aura' />
 </p>
 
 <div align="center">
