@@ -1,6 +1,6 @@
 ![Full-Stack Developer](https://user-images.githubusercontent.com/84478212/165183273-4dbd8ba9-9170-45c4-a2ea-abe2ebcc255f.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+Welcome!😊;I'm+Thiago😊;And+I'm+full-stack+developer💻&duration=9000&background=FFFFFF00&size=40&width=1000&center=true&vCenter=true&height=70&color=24292F&font=Roboto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+Welcome!😊;I'm+Thiago😊;And+I'm+Software+Developer💻&duration=9000&background=FFFFFF00&size=40&width=1000&center=true&vCenter=true&height=70&color=24292F&font=Roboto)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thiagooffice&label=Profile%20views&color=0e75b6&style=flat" alt="thiagooffice" /> </p>
 
@@ -12,12 +12,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
-I am a Full Stack Developer <img width="50" src="https://user-images.githubusercontent.com/84478212/165867697-0fd218c1-6b7e-465e-92e3-832d94c5429d.gif" />  from **Brazil.** <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" />
+I am a Software Developer <img width="50" src="https://user-images.githubusercontent.com/84478212/165867697-0fd218c1-6b7e-465e-92e3-832d94c5429d.gif" />  from **Brazil.** <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" />
 
 - 🧑‍🎓 I am a student and I am a member of **DevClub**, **Rocketseat**, **Full-Cycle**, **Next Wave Education** <img width="50" src="https://user-images.githubusercontent.com/84478212/167321355-7dea1f56-ebe1-4d45-9e86-6c6327935e62.png" />
 
 
-- 🌱 I’m currently learning **software architecture and Javascript, C#, DotNet, React Native, Typescript, among others.** <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" />
+- 🌱 I’m currently learning **Python ,software architecture, Javascript, C#, DotNet, React Native, Typescript, among others.** <img width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" />
 
 - 📚 I'm studying **Artificial Intelligence and Machine Learning at Leonardo da Vinci University Center.** <img width="36" src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" />
 
@@ -36,7 +36,7 @@ I am a Full Stack Developer <img width="50" src="https://user-images.githubuserc
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-[![My Skills](https://skillicons.dev/icons?i=cs,aws,dotnet,rabbitmq,terraform,azure,prometheus,grafana,elasticsearch,ruby,rails,bootstrap,css,html,docker,kubernetes,figma,firebase,git,github,gitlab,js,ts,vim,threejs,vscode,powershell,webpack,linux,materialui,mongodb,mysql,nestjs,netlify,nginx,nextjs,nodejs,androidstudio,postgres,postman,prisma,react,sass,styledcomponents,supabase,tailwind,jest,vue,vite,vercel,stackoverflow,graphql,redux,go,heroku&theme=dark&perline=19)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,aws,dotnet,rabbitmq,terraform,azure,py,pycharm,pytorch,prometheus,grafana,elasticsearch,ruby,rails,bootstrap,css,html,docker,kubernetes,figma,firebase,git,github,gitlab,js,ts,vim,threejs,vscode,powershell,webpack,linux,materialui,mongodb,mysql,nestjs,netlify,nginx,nextjs,nodejs,androidstudio,postgres,postman,prisma,react,sass,styledcomponents,supabase,tailwind,jest,vue,vite,vercel,stackoverflow,graphql,redux,go,heroku&theme=dark&perline=19)](https://skillicons.dev)
 
 </p>
 
